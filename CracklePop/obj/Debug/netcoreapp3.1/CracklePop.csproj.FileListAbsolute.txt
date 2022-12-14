@@ -1,0 +1,14 @@
+C:\Users\SWAGATIKA\source\repos\CracklePop\bin\Debug\netcoreapp3.1\CracklePop.exe
+C:\Users\SWAGATIKA\source\repos\CracklePop\bin\Debug\netcoreapp3.1\CracklePop.deps.json
+C:\Users\SWAGATIKA\source\repos\CracklePop\bin\Debug\netcoreapp3.1\CracklePop.runtimeconfig.json
+C:\Users\SWAGATIKA\source\repos\CracklePop\bin\Debug\netcoreapp3.1\CracklePop.runtimeconfig.dev.json
+C:\Users\SWAGATIKA\source\repos\CracklePop\bin\Debug\netcoreapp3.1\CracklePop.dll
+C:\Users\SWAGATIKA\source\repos\CracklePop\bin\Debug\netcoreapp3.1\CracklePop.pdb
+C:\Users\SWAGATIKA\source\repos\CracklePop\obj\Debug\netcoreapp3.1\CracklePop.csproj.AssemblyReference.cache
+C:\Users\SWAGATIKA\source\repos\CracklePop\obj\Debug\netcoreapp3.1\CracklePop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWAGATIKA\source\repos\CracklePop\obj\Debug\netcoreapp3.1\CracklePop.AssemblyInfoInputs.cache
+C:\Users\SWAGATIKA\source\repos\CracklePop\obj\Debug\netcoreapp3.1\CracklePop.AssemblyInfo.cs
+C:\Users\SWAGATIKA\source\repos\CracklePop\obj\Debug\netcoreapp3.1\CracklePop.csproj.CoreCompileInputs.cache
+C:\Users\SWAGATIKA\source\repos\CracklePop\obj\Debug\netcoreapp3.1\CracklePop.dll
+C:\Users\SWAGATIKA\source\repos\CracklePop\obj\Debug\netcoreapp3.1\CracklePop.pdb
+C:\Users\SWAGATIKA\source\repos\CracklePop\obj\Debug\netcoreapp3.1\CracklePop.genruntimeconfig.cache
